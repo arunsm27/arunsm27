@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunsm27
-- 👀 I’m interested in learning C & Python
+- 👀 I’m interested in learning C, C++ & Python
 - 📫 How to reach me ... aruns.mail27@gmail.com
 
 <!---
